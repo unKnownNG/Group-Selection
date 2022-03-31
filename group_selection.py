@@ -1,10 +1,6 @@
 from random import randint
 
-students = ["Abhishek","Akshaya","Arudhran","Arvind","Ashwin",
-"Bhagya","Divashree","Divyadharshini","Harini","Hemanth","Karthi","Keerthana",
-"Mohammed Daiyaan","Naga","Nityashri","Parvathi","Pavan","Pratyush","Rakesh",
-"Rishikesh","Salman","Sanjay","Sham","Shree Charan","Shreesha","Sunil",
-"Sriram","Vidyakar","Vishal"]
+students = []
 
 _length = len(students) 
 
